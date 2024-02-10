@@ -1,4 +1,5 @@
 # cmake-examples-byHBX
+## This is a note by hbx concerning the usage of cmake
 
 - 参考项目：cmake-examples-Chinese
 - 项目在线阅读电子书地址：[通过例子学习CMake](https://sfumecjf.github.io/cmake-examples-Chinese/)
